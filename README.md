@@ -71,7 +71,10 @@ Plant-Pulse/
 
 ### PCB Layout
 
-> *(Insert your PCB Layout screenshot here)*
+> *<img width="1413" height="805" alt="image" src="https://github.com/user-attachments/assets/5732c4e6-4502-4e7f-a31b-b3e35cd099c2" />
+*
+> *<img width="955" height="619" alt="image" src="https://github.com/user-attachments/assets/34c28773-8ce6-40aa-88a5-6e57c31c5142" />
+*
 
 ```
 Images/PCB_Layout.png
@@ -81,12 +84,12 @@ Images/PCB_Layout.png
 
 ### 3D View
 
-> *(Insert your 3D Viewer screenshots here)*
+> *<img width="1600" height="766" alt="image" src="https://github.com/user-attachments/assets/ba5b89e6-8b11-4005-a188-869a8f6b9537" />
+*
 
 ```
 Images/PCB_3D_Front.png
 
-Images/PCB_3D_Angle.png
 ```
 
 ---
