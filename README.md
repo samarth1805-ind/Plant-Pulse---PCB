@@ -51,18 +51,23 @@ This repository contains the custom PCB design created in **KiCad**, including t
 ## 📂 Repository Structure
 
 ```
-Plant-Pulse/
+Plant-Pulse
 │
-├── Schematic/
-├── PCB/
-├── Images/
-│   ├── Schematic.png
+├── PCB
+│   ├── plants_plot.kicad_pcb
+│   └── plants_plot.kicad_pro
+│
+├── Schematic
+│   └── plants_plot.kicad_sch
+│
+├── Images
 │   ├── PCB_Layout.png
-│   ├── PCB_3D_Front.png
-│   └── PCB_3D_Angle.png
+│   ├── 3D_Front.png
+│   ├── 3D_Angle.png
+│   ├── Schematic.png
+│   └── Render.png
 │
-├── README.md
-└── LICENSE (optional)
+└── README.md
 ```
 
 ---
